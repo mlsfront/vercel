@@ -53,7 +53,7 @@ export default function Home() {
 
         <div className={styles.grid}>
           <a
-            href="github.com/"
+            href="https://github.com/"
             className={styles.card}
             target="_blank"
             rel="noopener noreferrer"
